@@ -8,5 +8,3 @@ const myArray = ["dave","steve","gary"];
 module.exports = {add,myArray}
 
 
-
-con
