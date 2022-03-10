@@ -10,10 +10,10 @@ describe("should add two numbers together",() =>{
 
     test ("shoul equal 100 when adding 50 and 50",()=>{
         expect(app.add(50,50)).toBe(100)
-    })
-})
+    });
+});
 
 
 it("shouls include the name dave",()=>{
     expect(app.myArray).toContain("dave")
-})
+});
